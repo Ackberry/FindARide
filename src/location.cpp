@@ -1,10 +1,10 @@
-#include <location.h>
+#include "location.h"
 #include <cmath>
 
 Location::Location(double lat, double lon)
     : latitude(lat), longitude(lon) {}
 
-double Location:distanceTo(const Location& other) const {
+double Location::distanceTo(const Location& other) const {
     const double R = 6371.0; //Earth Radius
 
     double lat1Rad = latitude * M_PI / 180.0;
