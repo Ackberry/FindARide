@@ -1,0 +1,3 @@
+/Users/ackberry/Desktop/College/Kiro/FindARide_Cpp/build/CMakeFiles/ride_server.dir
+/Users/ackberry/Desktop/College/Kiro/FindARide_Cpp/build/CMakeFiles/edit_cache.dir
+/Users/ackberry/Desktop/College/Kiro/FindARide_Cpp/build/CMakeFiles/rebuild_cache.dir
